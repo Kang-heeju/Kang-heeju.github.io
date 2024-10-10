@@ -57,7 +57,7 @@ exclude:
   - fixtures/
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+# logo: "/assets/images/kangheeju.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -110,8 +110,10 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "@kangheeju":
+  "Github":
     - "https://github.com/Kang-heeju"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/heeju-kang-57681829b/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
