@@ -11,7 +11,7 @@ permalink: /docs/Kangheeju
 
 
 
-<img src="../../assets/images/Kangheeju/photo.jpeg" width="400" height="400"/>
+<img src="../../assets/images/Kangheeju/photo.jpeg" width="400" height="400" alt="profile"/>
 
 **🎂 Birth**
 

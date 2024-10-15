@@ -1,3 +1,1 @@
 root: _site
-exclude_messages:
-  - "An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images."
