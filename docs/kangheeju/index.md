@@ -5,11 +5,11 @@ nav_order: 2
 has_children: true
 permalink: /docs/Kangheeju
 ---
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000">Hi, I'm Heeju Kang🙌🏻 </div>
 
-# **Hi, I'm Heeju Kang** 🙌🏻
+안녕하세요, 새로운 도전을 즐기고 매일매일 발전하고 있는 **백엔드/퀀트 개발자 강희주** 입니다.
 
-> 안녕하세요, 새로운 도전을 즐기고 매일매일 발전하고 있는 **백엔드/퀀트 개발자 강희주** 입니다.
-> 
+
 
 <img src="../../assets/images/Kangheeju/photo.jpeg" width="400" height="400"/>
 
@@ -35,19 +35,22 @@ hjkang0107@gmail.com
 
 
 - **유지보수가 쉬운 SW를 개발하고 싶어요.**
+  
     - 팀원의 고통은 나의 고통! 누구나 이해하기 쉬운 논리적이고 우수한 코드를 지향해요.
     
 - **개발 과정에서 항상 사용자의 입장을 생각해요.**
+  
     - 사용자 경험을 통한 피드백을 적극적으로 수집해 직관적인 인터페이스(UI)와 편리한 사용자 경험(UX)을 제공하려고 노력해요.
     
 - **최신 기술에 관심이 많아 신기술을 활용하는 걸 좋아해요.**
+  
     - 빠르게 변화하는 소프트웨어 시장을 따라가면서 변화에 익숙해지려고 하는 사람이에요.
     
 - 🏨 I'm preparing for **`BackEnd Developer`**
 
 - 🌱 I'm currently learning ***NestJS*** and ***Typescipt***
 
-- 😘 I love ***music**, **workout*** and ***fashion*, etc 🎧 🏋️ 🛹 🎳 👞**
+- 😘 I love **music, workout** and **fashion, etc 🎧 🏋️ 🛹 🎳 👞**
 
     
 
@@ -80,11 +83,10 @@ hjkang0107@gmail.com
 
 
 
-💡 **BlockWabeLabs Quant Dev**
+💡 **BlockWabeLabs:  Quant Dev Intern**
 
 > 2024.06.24 ~ 2024.09.30 
 
-|         | |
 | :----------: | ---------------------------------------------------- |
 |   **Position**   | Quant Developer                                  |
 |  **Skills**  | Typescript, AWS, MySQL, Python, Websocket            |
@@ -94,9 +96,28 @@ hjkang0107@gmail.com
 
 ## 🧑🏻‍💻 Projects
 
+### **2020년도 한국 아티스트 인기도 분석 및 인기 차트 재구성**
+
+| Description | 음원 사이트의 특정 팬들의 무분별한 반복 재생으로 변질된 인기차트에서 다양한 가중치를 부여해 재구성한 프로젝트 |
+| ----------- | ------------------------------------------------------------ |
+| Position    | 1인 프로젝트                                                 |
+| Role        | 기획, 개발                                                   |
+| Skills      | Python, Jupyter Notebook, bs4                                |
+| Link        | https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020 |
 
 
- 
+
+### **한눈에 보이는 학습, 함께하는 도전, BBIP**
+
+| Description | 대학생, 취준생 스터디 관리 서비스; 효율적인 스터디 관리가 필요한 대학생과 취준생 타깃으로 새로운 동기부여를 제공합니다. |
+| ----------- | ------------------------------------------------------------ |
+| Position    | Server                                                       |
+| Role        | 기획, API 개발, erd 구조 작성, DB 구축 및 배포               |
+| Skills      | TypeScript, NestJS, AWS, MySQL, Redis                        |
+| Link        | https://github.com/bbip-swand                                |
+
+
+
 
 
 ## ⛏️ Skills and Tools
@@ -105,9 +126,8 @@ hjkang0107@gmail.com
 
 - 모르는 기술이 있다면 능동적으로 찾아보고 학습하여 활용하고자 합니다. 
 
-- 오픈소스를 적극적으로 찾아보며, 부족한 부분이 있다면 컨트리뷰션을 통해 더 나은 생태계를 만들어나가는 것을 좋아합니다. 
+- 오픈소스를 적극적으로 찾아보며, 부족한 부분이 있다면 컨트리뷰션을 통해 더 나은 생태계를 만들어나가는 것을 좋아합니다.
 
-  
 
 **주로 사용하는 기술**
 - TypeScript 기반의 NestJS 프레임워크를 활용해 서버 개발을 주로 하고 있습니다.
