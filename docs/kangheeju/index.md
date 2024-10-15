@@ -98,23 +98,23 @@ hjkang0107@gmail.com
 
 ### **2020년도 한국 아티스트 인기도 분석 및 인기 차트 재구성**
 
-| Description | 음원 사이트의 특정 팬들의 무분별한 반복 재생으로 변질된 인기차트에서 다양한 가중치를 부여해 재구성한 프로젝트 |
-| ----------- | ------------------------------------------------------------ |
-| Position    | 1인 프로젝트                                                 |
-| Role        | 기획, 개발                                                   |
-| Skills      | Python, Jupyter Notebook, bs4                                |
-| Link        | https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020 |
+| :-----------: | ----------------------------------------------------- |
+| **Description** | 음원 사이트의 무분별한 반복 재생으로 변질된 인기차트를 재구성한 프로젝트 |
+| **Position**    | 1인 프로젝트                                                 |
+| **Role**        | 기획, 개발                                                   |
+| **Skills**      | Python, Jupyter Notebook, bs4                                |
+| **Link**        |<a href="https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020">https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020</a> |
 
 
 
 ### **한눈에 보이는 학습, 함께하는 도전, BBIP**
 
-| Description | 대학생, 취준생 스터디 관리 서비스; 효율적인 스터디 관리가 필요한 대학생과 취준생 타깃으로 새로운 동기부여를 제공합니다. |
-| ----------- | ------------------------------------------------------------ |
-| Position    | Server                                                       |
-| Role        | 기획, API 개발, erd 구조 작성, DB 구축 및 배포               |
-| Skills      | TypeScript, NestJS, AWS, MySQL, Redis                        |
-| Link        | https://github.com/bbip-swand                                |
+| :-----------: | ---------------------------------------------------- |
+| **Description** | 효율적인 스터디 관리가 필요한 대학생, 취준생을 위한 스터디 관리 서비스 |
+| **Position**    | Server                                                       |
+| **Role**        | 기획, API 개발, erd 구조 작성, DB 구축 및 배포               |
+| **Skills**      | TypeScript, NestJS, AWS, MySQL, Redis                        |
+| **Link**        | <a href="https://github.com/bbip-swand">https://github.com/bbip-swand</a>                   |
 
 
 
