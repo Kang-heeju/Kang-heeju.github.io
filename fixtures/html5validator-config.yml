@@ -1,1 +1,3 @@
 root: _site
+exclude_messages:
+  - "An img element must have an alt attribute, except under certain conditions."
