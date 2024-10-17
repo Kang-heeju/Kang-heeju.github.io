@@ -46,9 +46,10 @@ int sum = (N+1)*N/2;
 
 효율적인 해결 방법을 고민한다는 것 -> 시간복잡도를 고려한다는 것이다!
 
-<center><h4><strong>즉 알고리즘의 로직을 코드로 구현할 때, 시간 복잡도를 고려한다는 것은 "입력값의 변화에 따라 연산을 실행할 때,</strong></h4></center>
-
-<center><h4><strong>"연산 횟수에 비해 시간이 얼마만큼 걸리는가?"라는 말이다.</strong></h4></center>
+<div style="text-align: center;">
+  <h3><strong>즉 알고리즘의 로직을 코드로 구현할 때, 시간 복잡도를 고려한다는 것은 "입력값의 변화에 따라 연산을 실행할 때,"</strong></h3>
+  <h3><strong>"연산 횟수에 비해 시간이 얼마만큼 걸리는가?"라는 말이다.</strong></h3>
+</div>
 
 
 
@@ -145,7 +146,7 @@ ex) 이진 탐색
 
 #### **O(n^2)**
 
-![O(n)](../../assets/images/algorithm/time-complexity/O-n^2.png)
+![O(n)](../../assets/images/algorithm/time-complexity/O-n2.png)
 
 2차 복잡도라고 부르며 입력값이 증가함에 따라 n의 제곱수의 비율로 증가한다. 
 
@@ -174,7 +175,7 @@ ex) 이진 탐색
 
 #### **O(2^n)**
 
-![O(n)](../../assets/images/algorithm/time-complexity/O-2^n.png)
+![O(n)](../../assets/images/algorithm/time-complexity/O-2n.png)
 
 기하급수적 복잡도(exponential complexity)라고 부르며, Big-O 표기법 중 가장 느린 시간복잡도를 가진다. 
 
