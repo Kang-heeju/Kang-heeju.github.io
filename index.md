@@ -12,7 +12,7 @@ permalink: /
 
 <ul>
     <li>
-        <a href="https://kangheeju.github.io/docs/typescript_NestJS/moment-timezone/">[Typescript] Moment-timezone 라이브러리</a>
+        <a href="https://kang-heeju.github.io/docs/typescript_NestJS/moment-timezone/">[Typescript] Moment-timezone 라이브러리</a>
         <span style="color:#808080">24.10.17</span>
     </li>
 </ul>
