@@ -81,11 +81,11 @@ int sum = (N+1)*N/2;
 
 ## Big-O 표기법의 종류
 
-![Big-O](../../assets/images/algorithm/time-complexity/big-o-complexity.png)
+![Big-O](../../../assets/images/algorithm/time-complexity/big-o-complexity.png)
 
 #### **O(1)**
 
-![O(1)](../../assets/images/algorithm/time-complexity/O-1.png)
+![O(1)](../../../assets/images/algorithm/time-complexity/O-1.png)
 
 일정한 복잡도(constant complexity)라고 하며 입력값이 증가하더라도 시간은 일정함
 
@@ -106,7 +106,7 @@ cout << result; // 2
 
 #### **O(n)**
 
-![O(n)](../../assets/images/algorithm/time-complexity/O-n.png)
+![O(n)](../../../assets/images/algorithm/time-complexity/O-n.png)
 
 O(n)은 선형 복잡도(linear complexity)라고 부르며, 입력값이 증가함에 따라 수행 시간도 같은 비율로 증가한다. 
 ```C++
@@ -136,7 +136,7 @@ Big-O 표기법은 알고리즘의 실행 시간이 입력 크기에 비해 어�
 
 #### **O(log n)**
 
-![O(logn)](../../assets/images/algorithm/time-complexity/O-logn.png)
+![O(logn)](../../../assets/images/algorithm/time-complexity/O-logn.png)
 
 로그복잡도라고 부르며, Big-O 표기법 중 O(1) 다음으로 빠른 시간 복잡도를 갖는다. 
 
@@ -146,7 +146,7 @@ ex) 이진 탐색
 
 #### **O(n^2)**
 
-![O(n)](../../assets/images/algorithm/time-complexity/O-n2.png)
+![O(n)](../../../assets/images/algorithm/time-complexity/O-n2.png)
 
 2차 복잡도라고 부르며 입력값이 증가함에 따라 n의 제곱수의 비율로 증가한다. 
 
@@ -175,7 +175,7 @@ ex) 이진 탐색
 
 #### **O(2^n)**
 
-![O(n)](../../assets/images/algorithm/time-complexity/O-2n.png)
+![O(n)](../../../assets/images/algorithm/time-complexity/O-2n.png)
 
 기하급수적 복잡도(exponential complexity)라고 부르며, Big-O 표기법 중 가장 느린 시간복잡도를 가진다. 
 
