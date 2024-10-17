@@ -90,7 +90,7 @@ hjkang0107@gmail.com
 | :----------: | ---------------------------------------------------- |
 |   **Position**   | Quant Developer                                  |
 |  **Skills**  | Typescript, AWS, MySQL, Python, Websocket            |
-| **Projects** | 마켓메이커 봇, 아비트리지 봇 개발 & 해외 거래소 컨택             |
+| **Projects** | 마켓메이커 봇, 아비트리지 봇 개발, 해외 거래소 컨택             |
 
 
 
