@@ -15,4 +15,8 @@ permalink: /
         <a href="https://kang-heeju.github.io/docs/typescript_NestJS/moment-timezone/">[Typescript] Moment-timezone 라이브러리</a>
         <span style="color:#808080">24.10.17</span>
     </li>
+    <li>
+        <a href= "https://kang-heeju.github.io/docs/algorithm/time-complexity/">[알고리즘] 시간 복잡도</a>
+        <span style="color:#808080">24.03.23</span>
+    </li>
 </ul>
