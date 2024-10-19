@@ -23,11 +23,11 @@ hjkang0107@gmail.com
 
 🐱 **Github**
 
-[https://github.com/Kang-heeju](https://github.com/Kang-heeju)
+<a href="https://github.com/Kang-heeju" target="_blank">https://github.com/Kang-heeju</a>
 
 **📷 Instagram**
 
-[@kangheeeju](https://www.instagram.com/kangheeeju)
+<a href="https://www.instagram.com/kangheeeju" target="_blank">@kangheeeju</a>
 
 
 
