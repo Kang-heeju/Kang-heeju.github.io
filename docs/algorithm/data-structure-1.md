@@ -166,10 +166,6 @@ deque<int> dq(10, 4); //4로 초기화된 10개의 원소를 가진 deque
 - 예시
   - **메모리 관리 시스템**: 힙 메모리 관리에서 사용되는 빈 공간 리스트(free list)를 관리할 때, 연결 리스트를 사용하여 메모리 블록을 관리한다.
 ```C++
-#include <iostream> 
-
-using namespace std;
-
 int main() {
 //리스트 선언
 	list<int> b;
@@ -201,7 +197,6 @@ int main() {
 	}
 	return 0;
 }
-
 ```
 
 
