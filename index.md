@@ -16,7 +16,11 @@ permalink: /
         <span style="color:#808080">24.10.17</span>
     </li>
     <li>
-        <a href= "https://kang-heeju.github.io/docs/algorithm/time-complexity/">[알고리즘] 시간 복잡도</a>
+        <a href="">자료구조(Data Structure)-1: Linear Data Structure</a>
+        <span style="color:#808080">2024.03.27</span>
+    </li>
+    <li>
+        <a href= "https://kang-heeju.github.io/docs/algorithm/time-complexity/">시간 복잡도</a>
         <span style="color:#808080">24.03.23</span>
     </li>
 </ul>

@@ -1,11 +1,11 @@
 ---
-title: "[알고리즘] 시간 복잡도"
+title: "시간 복잡도"
 last_modified_date: "2024-03-23 21:01:13"
 parent: 알고리즘 개념
 grand_parent: Algorithm
 ---
 
-<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">[알고리즘] 시간 복잡도</div>
+<div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000; margin-bottom:15px;">시간 복잡도에 관해</div>
 
 {: .no_toc }
 
