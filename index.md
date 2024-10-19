@@ -16,7 +16,11 @@ permalink: /
         <span style="color:#808080">24.10.17</span>
     </li>
     <li>
-        <a href="">자료구조(Data Structure)-1: Linear Data Structure</a>
+        <a href="https://kang-heeju.github.io/docs/algorithm/data-structure-2/">자료구조-2: Non-Linear Data Structure(트리, 그래프)</a>
+        <span style="color:#808080">2024.03.30</span>
+    </li>
+    <li>
+        <a href="https://kang-heeju.github.io/docs/algorithm/data-structure-1/">자료구조(Data Structure)-1: Linear Data Structure</a>
         <span style="color:#808080">2024.03.27</span>
     </li>
     <li>
