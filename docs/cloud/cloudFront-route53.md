@@ -37,7 +37,7 @@ Route53은 일반적인 DNS기능에, 모니터링 기능, L4 기능(Server Load
 
 ## DNS?
 
-![DNS](../../assets/images/cloud/route53/DNS.png)
+![DNS](../../../assets/images/cloud/route53/DNS.png)
 
 - 사용자 디바이스에서 도메인 이름을 요청하면, 해당 요청은 Cache DNS(Local DNS) 서버로 전달된다. 만일 예전에 접속했던 이력이 있다면 Local DNS에 캐싱된 정보가 저장되어 있어 바로 접속이 가능하다. 
 
@@ -58,13 +58,13 @@ Route53은 일반적인 DNS기능에, 모니터링 기능, L4 기능(Server Load
 
 - 먼저 AWS 콘솔에서 Route53을 들어간 뒤, 이미 구매한 도메인이 있다면 호스팅 영역 > 호스팅 영역 생성에 들어간다.
 
-![hosting](../../assets/images/cloud/route53/hosting.png)
+![hosting](../../../assets/images/cloud/route53/hosting.png)
 
 
 
 - 생성된 레코드의 네임서버를 도메인을 구매한 곳에 등록해준다. 
 
-  ![hosting](../../assets/images/cloud/route53/record.png)
+  ![hosting](../../../assets/images/cloud/route53/record.png)
 
   TTL은 원하는 대로 바꿔주면 된다. 
 
@@ -72,7 +72,7 @@ Route53은 일반적인 DNS기능에, 모니터링 기능, L4 기능(Server Load
 
 - 해당 도메인을 Ec2 인스턴스와 연결하기 위해 레코드를 생성해준다.
 
-  ![record](../../assets/images/cloud/route53/create_record.png)
+  ![record](../../../assets/images/cloud/route53/create_record.png)
 
   라우팅 정책에서 트래픽에 대한 라우팅 방법을 선택할 수 있다. 각 라우팅 정책에 대한 기능은 다음과 같다.
   
