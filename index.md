@@ -12,7 +12,7 @@ permalink: /
 
 <ul>
     <li>
-        <a href="https://kang-heeju.github.io/docs/cloud/cloudFront-route53/">[AWS] Route53 적용하기</a>
+        <a href="https://kang-heeju.github.io/docs/cloud/route53/">[AWS] Route53 적용하기</a>
         <span style="color:#808080">24.10.27</span>
     </li>
     <li>
