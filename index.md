@@ -12,6 +12,10 @@ permalink: /
 
 <ul>
     <li>
+        <a href="https://kang-heeju.github.io/docs/typescript_NestJS/websocket/">[Typescript] Websocket 사용해보기(Quant Bot)</a>
+        <span style="color:#808080">24.10.31</span>
+    </li>
+    <li>
         <a href="https://kang-heeju.github.io/docs/cloud/route53/">[AWS] Route53 적용하기</a>
         <span style="color:#808080">24.10.27</span>
     </li>
@@ -44,3 +48,4 @@ permalink: /
         <span style="color:#808080">23.11.29</span>
     </li>
 </ul>
+
