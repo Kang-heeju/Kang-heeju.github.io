@@ -1,5 +1,5 @@
 ---
-title: "[Typescript] WebSocket에 관해(Quant Bot)"
+title: "[Typescript] WebSocket 사용해보기(Quant Bot)"
 last_modified_date: "2024-10-31 22:53:38"
 parent: "TypeScript & NestJS"
 ---
