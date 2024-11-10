@@ -92,7 +92,7 @@ Route53은 일반적인 DNS기능에, 모니터링 기능, L4 기능(Server Load
 
 이러한 방법으로 내가 구매한 domain과 EC2를 연결할 수 있다. 
 
-다음 시간에는 Route53과 CloudFront를 연결하는 방법을 알아보겠다. 
+ 
 
 
 
