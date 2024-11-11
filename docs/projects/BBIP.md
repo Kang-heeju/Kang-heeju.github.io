@@ -129,3 +129,6 @@ KHU 예술적인 소프트웨어 웹/앱 부분 - 기업 특별상
 ### Github
 
 <a href="https://github.com/bbip-swand"> Github Link </a>
+
+[BBIP 이용가이드](https://possible-raft-360.notion.site/BBIP-114aea0c293b81d7820ae57115c6af3f)
+
