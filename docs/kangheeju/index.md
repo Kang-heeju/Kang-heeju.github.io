@@ -23,36 +23,29 @@ hjkang0107@gmail.com
 
 🐱 **Github**
 
-<a href="https://github.com/Kang-heeju" target="_blank">https://github.com/Kang-heeju</a>
+<a href="https://github.com/Kang-heeju" target="_blank">github.com/Kang-heeju</a>
 
-**📷 Instagram**
+**📁Resume**
 
-<a href="https://www.instagram.com/kangheeeju" target="_blank">@kangheeeju</a>
+<a href="https://kangheeju.notion.site/6e3156bc09484b65931fbd6d6eab7cff?pvs=4" target="_blank">kangheeju.notion.site</a>
 
 
 
 ## 🙋‍♂️ About me
 
 
-- **유지보수가 쉬운 SW를 개발하고 싶어요.**
+- **유지보수가 쉬운 SW를 지향합니다.**
   
-    - 팀원의 고통은 나의 고통! 누구나 이해하기 쉬운 논리적이고 우수한 코드를 지향해요.
+    - 누구나 이해하기 쉬운 논리적인 코드가 좋은 코드라고 생각합니다.
+    - 단순한 서비스 개발을 넘어, 성능을 개선할 수 있는 방향으로 코드 리팩토링을 지향합니다.
     
-- **개발 과정에서 항상 사용자의 입장을 생각해요.**
-  
-    - 사용자 경험을 통한 피드백을 적극적으로 수집해 직관적인 인터페이스(UI)와 편리한 사용자 경험(UX)을 제공하려고 노력해요.
-    
-- **최신 기술에 관심이 많아 신기술을 활용하는 걸 좋아해요.**
-  
-    - 빠르게 변화하는 소프트웨어 시장을 따라가면서 변화에 익숙해지려고 하는 사람이에요.
-    
-- 🏨 I'm preparing for **`BackEnd Developer`**
+- **모르는 기술이 있다면 능동적으로 찾아보고 학습하여 활용하고자 합니다.**
 
-- 🌱 I'm currently learning ***NestJS*** and ***Typescipt***
+- **오픈소스를 적극적으로 찾아보며, 부족한 부분이 있다면 컨트리뷰션을 통해 더 나은 생태계를 만들어나가는 것을 좋아합니다.**
 
-- 😘 I love **music, workout** and **fashion, etc 🎧 🏋️ 🛹 🎳 👞**
+- **기술 블로그를 작성하면서 터득한 의미있는 내용을 꾸준히 기록하려고 합니다.**
 
-    
+      
 
 ## 📖 Education
 
@@ -64,6 +57,17 @@ hjkang0107@gmail.com
 
 
 ## 🎒 Experiences
+
+💡 **BlockWabeLabs:  Quant Dev Intern**
+
+> 2024.06.24 ~ 2024.09.30 
+
+| :----------: | ---------------------------------------------------- |
+|   **Position**   | Quant Developer                                  |
+|  **Skills**  | Typescript, AWS, MySQL, Python, Websocket            |
+| **Projects** | 마켓메이커 봇, 아비트리지 봇 개발, 해외 거래소 컨택             |
+
+
 
 💡 **소프트웨어융합대학 제4대 학생회 TAB**
 
@@ -83,17 +87,6 @@ hjkang0107@gmail.com
 
 
 
-💡 **BlockWabeLabs:  Quant Dev Intern**
-
-> 2024.06.24 ~ 2024.09.30 
-
-| :----------: | ---------------------------------------------------- |
-|   **Position**   | Quant Developer                                  |
-|  **Skills**  | Typescript, AWS, MySQL, Python, Websocket            |
-| **Projects** | 마켓메이커 봇, 아비트리지 봇 개발, 해외 거래소 컨택             |
-
-
-
 ## 🧑🏻‍💻 Projects
 
 ### **2020년도 한국 아티스트 인기도 분석 및 인기 차트 재구성**
@@ -103,7 +96,7 @@ hjkang0107@gmail.com
 | **Position**    | 1인 프로젝트                                                 |
 | **Role**        | 기획, 개발                                                   |
 | **Skills**      | Python, Jupyter Notebook, bs4                                |
-| **Link**        |<a href="https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020">https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020</a> |
+| **Link**        |<a href="https://github.com/Kang-heeju/Analysis_of_Korean_Artist_2020">github.com/Kang-heeju/Analysis_of_Korean_Artist_2020</a> |
 
 
 
@@ -114,7 +107,7 @@ hjkang0107@gmail.com
 | **Position**    | Server                                                       |
 | **Role**        | 기획, API 개발, erd 구조 작성, DB 구축 및 배포               |
 | **Skills**      | TypeScript, NestJS, AWS, MySQL, Redis                        |
-| **Link**        | <a href="https://github.com/bbip-swand">https://github.com/bbip-swand</a>                   |
+| **Link**        | <a href="https://github.com/bbip-swand">github.com/bbip-swand</a>                   |
 
 
 
