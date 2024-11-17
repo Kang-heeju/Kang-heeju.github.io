@@ -12,6 +12,10 @@ permalink: /
 
 <ul>
     <li>
+        <a href="https://kang-heeju.github.io/docs/cloud/port-forward-redirection/">[AWS] 포트포워딩 & HTTP Redirect</a>
+        <span style="color:#808080">24.11.16</span>
+    </li>
+    <li>
         <a href="https://kang-heeju.github.io/docs/typescript_NestJS/typescript/">TypeScript에 대한 심층 탐구</a>
         <span style="color:#808080">24.11.06</span>
     </li>

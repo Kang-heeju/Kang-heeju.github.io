@@ -1,6 +1,6 @@
 ---
 title: "[AWS] 포트포워딩 & HTTP Redirect"
-last_modified_date: "2024-11-10 14:33:38"
+last_modified_date: "2024-11-16 14:33:38"
 parent: "Cloud"
 ---
 
