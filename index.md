@@ -12,7 +12,7 @@ permalink: /
 
 <ul>
     <li>
-        <a href="https://kang-heeju.github.io/docs/quant/kana-marketmaking//">트레이딩 프로젝트-Kana Labs Quant Bot</a>
+        <a href="https://kang-heeju.github.io/docs/quant/kana-marketmaking/">트레이딩 프로젝트-Kana Labs Quant Bot</a>
         <span style="color:#808080">24.11.19</span>
     </li>
     <li>
