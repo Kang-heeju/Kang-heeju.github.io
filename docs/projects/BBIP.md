@@ -24,6 +24,8 @@ parent: Projects
 
 KHU 예술적인 소프트웨어 웹/앱 부분 - 기업 특별상
 
+KHU 소프트웨어중심사업단 SW 페스티벌 - 장려상
+
 
 
 ## Introduction
