@@ -2,7 +2,7 @@
 layout: default
 title: Crypto
 has_children: true
-permalink: /docs/crypto
+permalink: docs/crypto
 ---
 
 <div style="font-size:32px; font-weight: 800; border-left: 7px solid #0687f0; padding-left:15px !important; color:#000000">Crypto & Blockchain</div>
